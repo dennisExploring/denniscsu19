@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @denniscsu19
+- 👋 Hi, I’m @dennis
 - 👀 I’m interested in Advanced Computer Science: java programming,classes & objects, Etherum development
 - 🌱 I’m currently learning:
   1. Software Development Full Stack Java Developer @SimpliLearn(opnline self paced course)
